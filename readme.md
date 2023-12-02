@@ -9,7 +9,7 @@ Protein pKa is a fundamental physicochemical parameter that dictates protein str
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/DeepSynthesis/PSPOC-version-1.0
    ```
 2. Create new python environment
    ```sh
